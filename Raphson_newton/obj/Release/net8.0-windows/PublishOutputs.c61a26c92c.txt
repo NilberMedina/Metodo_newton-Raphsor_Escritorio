@@ -1,0 +1,6 @@
+D:\metodos numericos\Raphson_newton\bin\Release\net8.0-windows\app.publish\Raphson_newton.exe
+D:\metodos numericos\Raphson_newton\bin\Release\net8.0-windows\app.publish\Raphson_newton.dll
+D:\metodos numericos\Raphson_newton\bin\Release\net8.0-windows\app.publish\Raphson_newton.deps.json
+D:\metodos numericos\Raphson_newton\bin\Release\net8.0-windows\app.publish\Raphson_newton.runtimeconfig.json
+D:\metodos numericos\Raphson_newton\bin\Release\net8.0-windows\app.publish\Raphson_newton.pdb
+D:\metodos numericos\Raphson_newton\bin\Release\net8.0-windows\app.publish\NCalc.dll
